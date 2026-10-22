@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/azadi1388">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Amir+Mohammad+Azadi+Far;Full-Stack+Web+Developer;RoboCup+2D+%26+Multi-Agent+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Amir+Mohammad+Azadi+Far;Full-Stack+Web+Developer;RoboCup+2D+%26+Multi-Agent+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,15 +18,13 @@
   </p>
 
   <p>
-    <a href="https://azadifar.ir" target="_blank">
+    <a href="https://azadifar.ir">
       <img src="https://img.shields.io/badge/Website-azadifar.ir-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
     </a>
-    <a href="https://github.com/azadi1388" target="_blank">
+    <a href="https://github.com/azadi1388">
       <img src="https://img.shields.io/badge/GitHub-azadi1388-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=azadi1388&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views"/>
 </div>
 
 <br/>
@@ -71,24 +67,6 @@
 <div align="center">
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=azadi1388&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Stats"/>
   <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadi1388&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages"/>
-</div>
-
-<br/>
-
-<details>
-  <summary><b>Contribution Graph</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azadi1388&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-  </div>
-</details>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azadi1388&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 ---

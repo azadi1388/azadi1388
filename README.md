@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5qY2h0eXh6eXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oEjI6SIIHBdRxXI40/giphy.gif" width="32" alt="wave" />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="36" height="36" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="48" alt="Thanks" />
   <br/><br/>
   <p>Open to collaboration on web applications, multi-agent systems, and cybersecurity projects.</p>
   <br/>

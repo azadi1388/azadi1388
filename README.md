@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Amir+Mohammad+Azadi+Far;Full-Stack+Web+Developer;RoboCup+2D+%26+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=Amir+Mohammad+Azadi+Far;Full-Stack+Web+Developer;RoboCup+2D+%26+Cybersecurity" alt="Typing Animation" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1qY2h6eXh6eXh6eXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7abKhOpu0NwenH3O/giphy.gif" width="28" alt="" />
+</div>
+
+<div align="center">
   <p>
-    Building modern web applications with <b>Next.js</b> and <b>React</b>.<br/>
+    Building modern web applications with <b>Next.js</b> & <b>React</b>.<br/>
     Passionate about multi-agent systems, competitive robotics, and secure software.<br/>
-    Currently deepening knowledge in <b>Networking</b> and <b>Cybersecurity</b>.
+    Currently exploring <b>Networking</b> and <b>Cybersecurity</b>.
   </p>
 
   <p>
@@ -72,6 +76,8 @@
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ4d2Z6eXh6eXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BRuo6sLetdllPAQ/giphy.gif" width="40" alt="" />
+  <br/><br/>
   <p>Open to collaboration on web applications, multi-agent systems, and cybersecurity projects.</p>
   <br/>
   <sub>✨ Designed & maintained by <a href="https://github.com/azadi1388"><b>Amir Mohammad Azadi Far</b></a></sub>
